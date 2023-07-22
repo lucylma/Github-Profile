@@ -27,11 +27,15 @@ If you are interested in collaborating on data-driven projects, feel free to rea
 <p align="center">
 
 ## Programming Languages, Libraries & Tech Tools
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='40'/> 
-<img src = 'https://static.platzi.com/media/articlases/Images/Numpy.png' width='70'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='70'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='70'/> 
+<img src = 'https://static.platzi.com/media/articlases/Images/Numpy.png' width='80'/> 
+<img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RoJVQbtWzHESwuQQd2UZA_dBGXFswYUTzg&usqp=CAU' width='80'/> 
+<img src = 'https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png' width='100'/> 
+<img src = 'https://www.fullstackpython.com/img/logos/scipy.png' width='100'/> 
 
- <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RoJVQbtWzHESwuQQd2UZA_dBGXFswYUTzg&usqp=CAU' width='70'/> 
+
+ 
  ## Who am I?
  ```python
  class WhoAmI:
