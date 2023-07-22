@@ -27,11 +27,11 @@ If you are interested in collaborating on data-driven projects, feel free to rea
 <p align="center">
 
 ## Programming Languages, Libraries & Tech Tools
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='40'/> 
+<img src = 'https://static.platzi.com/media/articlases/Images/Numpy.png' width='70'/> 
 
-  
- 
+ <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RoJVQbtWzHESwuQQd2UZA_dBGXFswYUTzg&usqp=CAU' width='70'/> 
  ## Who am I?
  ```python
  class WhoAmI:
