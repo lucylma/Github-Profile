@@ -26,7 +26,7 @@ If you are interested in collaborating on data-driven projects, feel free to rea
 
 <p align="center">
 
-## Programming Languages, Libaries & Tech Tools
+## Programming Languages, Libraries & Tech Tools
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
 
