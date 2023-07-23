@@ -27,13 +27,13 @@ If you are interested in collaborating on data-driven projects, feel free to rea
 <p align="center">
 
 ## Programming Languages, Libraries & Tech Tools
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/> <a>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='50'/> 
-<img src = 'https://static.platzi.com/media/articlases/Images/Numpy.png' width='100'/> 
-<img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RoJVQbtWzHESwuQQd2UZA_dBGXFswYUTzg&usqp=CAU' width='100'/> 
-<img src = 'https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png' width='180'/> 
-<img src = 'https://www.fullstackpython.com/img/logos/scipy.png' width='100'/> 
-<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png' height='40'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/> <a> &nbsp;&nbsp;&nbsp;
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='50'/> &nbsp;&nbsp;&nbsp;
+<img src = 'https://static.platzi.com/media/articlases/Images/Numpy.png' width='100'/> &nbsp;&nbsp;&nbsp;
+<img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1RoJVQbtWzHESwuQQd2UZA_dBGXFswYUTzg&usqp=CAU' width='100'/> &nbsp;&nbsp;&nbsp;
+<img src = 'https://matplotlib.org/3.1.0/_images/sphx_glr_logos2_003.png' width='180'/> &nbsp;&nbsp;&nbsp;
+<img src = 'https://www.fullstackpython.com/img/logos/scipy.png' width='100'/> &nbsp;&nbsp;&nbsp;
+<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png' height='40'/> &nbsp;&nbsp;&nbsp;
 <img src = 'https://itw4site.blob.core.windows.net/it4w-site-images/partners/April2022/power-bi_logo.png' height='40'/> 
 
  
