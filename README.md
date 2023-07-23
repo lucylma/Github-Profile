@@ -37,30 +37,32 @@ If you are interested in collaborating on data-driven projects, feel free to rea
 <img src = 'https://itw4site.blob.core.windows.net/it4w-site-images/partners/April2022/power-bi_logo.png' height='40'/> 
 
  
- ## Who am I?
+## Behind the Keyboard ##
  ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-	current_edu = "St. Mary's Group of Institutions"
+ class MyNickname:
+ 	user = 'Lucy'
+	current_edu = "Henry, ITAM"
 	hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Playing Piano',
+				'Reading',
+				'Watching Netflix '
+				'Collecting Lego Sets'
+				'Dog Lover'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Estado de México_México()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		FinishMBA()
+		FinishDataBootcamp()
+		SeekNewOportunities()
+		ContributeToSociety()
+		
 	
  ```
  
-## Current Works
+## Current Proyects
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Also, I've got a **Youtube Channel, [The Broke Coder](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.
  
